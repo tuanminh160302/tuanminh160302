@@ -4,16 +4,16 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tuanminh160302&label=Profile%20views&color=0e75b6&style=flat" alt="tuanminh160302" /> </p>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/snguyen1603/">
+  <a href="https://www.linkedin.com/in/snguyen1603/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/ocd.ctuan/">
+  <a href="https://www.instagram.com/ocd.ctuan/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="mailto:canhtuan09@gmail.com">
+  <a href="mailto:canhtuan09@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-critical?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.steve1603.com/">
+  <a href="https://www.steve1603.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge" alt="Gmail Badge"/>
   </a>
 </div>
