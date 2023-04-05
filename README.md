@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuanminh160302&label=Profile%20views&color=0e75b6&style=flat" alt="tuanminh160302" /> </p>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tuanminh160302&show_icons=true)
 
 - 👨‍💻 Portfolio [https://www.steve1603.com/](https://www.steve1603.com/)
 
