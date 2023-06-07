@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steve Nguyen</h1>
-<h3 align="center">Badass SWE and I own 45 fish</h3>
+<h3 align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tuanminh160302&label=Profile%20views&color=0e75b6&style=flat" alt="tuanminh160302" /> </p>
 
